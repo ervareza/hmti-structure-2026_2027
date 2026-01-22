@@ -1,6 +1,4 @@
 <div align="center">
-  <img width="1200" alt="HMTI Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-  
   # 🚀 HMPS-TI UNISBANK SEMARANG
   ### Organizational Structure & Programs • Period 2026/2027
   
