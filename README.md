@@ -27,15 +27,13 @@ Built with a focus on **visual excellence**, **smooth interactions**, and **mobi
 
 ## 🖼️ Visual Showcase
 
-```carousel
-![Main Structure](media/structure.png)
-<!-- slide -->
-![About Us](media/about.png)
-<!-- slide -->
-![Work Programs](media/programs.png)
-<!-- slide -->
-![Mobile Experience](media/mobile.png)
-```
+|             Main Structure             |            Work Programs             |
+| :------------------------------------: | :----------------------------------: |
+| ![Main Structure](media/structure.png) | ![Work Programs](media/programs.png) |
+
+|           About Us           |              Mobile View               |
+| :--------------------------: | :------------------------------------: |
+| ![About Us](media/about.png) | ![Mobile Experience](media/mobile.png) |
 
 ## 🛠️ Tech Stack
 
