@@ -35,7 +35,20 @@ Built with a focus on **visual excellence**, **smooth interactions**, and **mobi
 | :--------------------------: | :------------------------------------: |
 | ![About Us](media/about.png) | ![Mobile Experience](media/mobile.png) |
 
-## 🛠️ Tech Stack
+## � Work Programs Schedule 2026/2027
+
+| Program Name                           | Estimated Timeline    | Category     |
+| :------------------------------------- | :-------------------- | :----------- |
+| **Freshmen Orientation & MOU Signing** | 30 January 2026       | Student Dev  |
+| **Grand Gathering**                    | March - April 2026    | Community    |
+| **Tech Goes To School**                | May 2026 (Week 3)     | Education    |
+| **Industrial Visit**                   | June 2026             | Career       |
+| **EIE: Seminar Talk Show**             | October 2026 (Week 3) | Major Event  |
+| **Staff Open Recruitment**             | November 2026         | Regeneration |
+| **Succession Interviews**              | December 2026         | Leadership   |
+| **Grand Reorganization**               | January 2027          | Organization |
+
+## �🛠️ Tech Stack
 
 - **Core**: React 19, TypeScript
 - **Styling**: Vanilla CSS (Modern CSS features, Grid, Flexbox)
